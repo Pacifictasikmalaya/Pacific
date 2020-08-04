@@ -24,7 +24,7 @@
                   <i class="material-icons">date_range</i>
                 </span>
                 <div class="form-line">
-                  <input type="text" value="<?php echo $tgl_pemasukan; ?>" id="tgl_pemasukan" name="tgl_pemasukan" class="datepicker form-control date" placeholder="Tanggal" data-error=".errorTxt19" />
+                  <input type="text" value="<?php echo $tgl_pemasukan; ?>" id="tgl_pemasukan" name="tgl_pemasukan" class="datepicker form-control date" placeholder="Tanggal Masuk" data-error=".errorTxt19" />
                 </div>
               </div>
               <br>
